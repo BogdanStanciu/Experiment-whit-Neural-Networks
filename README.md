@@ -1,4 +1,4 @@
-# Experiment-whit-Neural-Networks
+# Experiments-whit-Neural-Networks
 Some experiment and exercise whit neural network, deep learning, machine learning. 
 
 ## The purpose
