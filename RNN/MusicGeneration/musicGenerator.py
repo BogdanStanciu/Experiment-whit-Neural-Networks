@@ -8,7 +8,7 @@ from IPython import display as ipythondisplay
 from tqdm import tqdm
 
 """
-Using the MIT music dataset we will create a RNN to learning
+Using the MIT music dataset will create a RNN to learning
 the pattern in all the songs, so will be able to create new 
 songs starting from one note
 """
