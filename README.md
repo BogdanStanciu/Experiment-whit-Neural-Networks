@@ -1,5 +1,5 @@
 # Experiments-whit-Neural-Networks
-Some experiment and exercise whit neural network, deep learning, machine learning. 
+Some experiment and exercise whit neural network.
 
 ## The purpose
 The purpose of this repository is to make some basic neural networks and going on into deep NN and so on. 
